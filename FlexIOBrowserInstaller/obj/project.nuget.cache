@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1iNsdowptsM=",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\C#, C++, C\\FlexIOBrowserInstaller\\FlexIOBrowserInstaller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JustUsualUser\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\JustUsualUser\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.10\\microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\JustUsualUser\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\JustUsualUser\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\JustUsualUser\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.10\\microsoft.netcore.app.crossgen2.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
